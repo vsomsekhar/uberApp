@@ -1,0 +1,43 @@
+# Ignore target folder
+/target/
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+/.idea/
+/*.iml
+*.classpath
+*.project
+/.settings/
+/.vscode/
+
+# Maven specific files
+/.mvn/
+.mvnw
+.mvnw.cmd
+
+# JAR/WAR files
+*.jar
+*.war
+
+# Spring Boot configuration
+application-*.yml
+application-*.yaml
+application-*.properties
+
+# Test reports
+/test-output/
